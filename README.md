@@ -23,9 +23,14 @@
     height="160em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippemozer&layout=compact&theme=github_dark&langs_count=6&hide=java,mustache,smarty"
   >
-  <a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=felippemozer&theme=github-dark-blue&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+  <img 
+    align="center" 
+    src="https://streak-stats.demolab.com?user=felippemozer&theme=github-dark-blue&hide_border=true&mode=weekly" 
+    alt="GitHub Streak" 
+  >
+    
+  </a>
 </div>
-
 
 <br/>
 
@@ -36,5 +41,4 @@
   <a href="https://www.linkedin.com/in/felippe-barbosa-mozer-74a8711a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="27px"></a>
 </div>
 
-<!-- https://icon-icons.com/pt/ -->
-<!-- https://super.so/icons-light   -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
