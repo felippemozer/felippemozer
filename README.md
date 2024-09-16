@@ -3,17 +3,14 @@
 
 **About code** <img height="14em" width="14em" src="https://super.so/icon/light/git-merge.svg"> :
 
-
-<code><img height="20" alt="typescript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png"></code>
-<code><img height="20" alt="javascript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"></code>
-<code><img height="21" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"></code>
-<code><img height="20" alt="docker" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_tile_logo_icon_168248.png"></code>
 <code><img height="20" alt="aws" src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl.png"></code>
-<code><img height="20" width="20" alt="nest" src="https://www.codewithvlad.com/assets/svg/nest-logo.svg"></code>
-<code><img height="20" alt="django" src="https://img.stackshare.io/service/994/4aGjtNQv.png"></code>
-<code><img height="20" alt="html" src="https://cdn2.iconfinder.com/data/icons/metro-ui-dock/512/HTML5.png"></code>
-<code><img height="20" alt="css" src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/css-512.png"></code>
-<code><img height="20" alt="arch" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/distributorlogoarchlinux_103805.png"></code>
+<code><img height="20" alt="gcp" src="https://catalog.cloudblue.com/wp-content/uploads/2022/11/PRD-571-250-341-logo_QxFh4RC.png"></code>
+<code><img height="20" alt="docker" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_tile_logo_icon_168248.png"></code>
+<code><img height="20" alt="kubernetes" src="https://static-00.iconduck.com/assets.00/kubernetes-color-icon-256x256-t8ualzkj.png"></code>
+<code><img height="20" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"></code>
+<code><img height="20" alt="golang" src="https://res.cloudinary.com/spantree-technology-group/image/upload/v1675714279/tools_go_c992807789.png"></code>
+<code><img height="20" alt="nodejs" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp&w=256"></code>
+<code><img height="20" alt="typescript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png"></code>
 
 <div align="center">
   <a href="https://github.com/felippemozer">
