@@ -1,11 +1,14 @@
 **About me** <img height="14em" width="14em" src="https://super.so/icon/light/coffee.svg"> :
 
+DevOps Engineer. Focused mainly on infrastructure management using Infrastructure as Code (IaC) tools, like Terraform, and containerized application provisioning, using Docker, Kubernetes and Cloud solutions, like AWS EC2, ECS, EKS. Also specialized on serverless development with multiple programming languages, like Python, Javascript and Golang, supported by cloud serverless solutions, like AWS Lambda, S3, DynamoDB.
+
+Analytics Engineer. Using mostly GCP solutions to provision data ingestion and data warehousing projects, supported by Python solutions as main programming language.
 
 **About code** <img height="14em" width="14em" src="https://super.so/icon/light/git-merge.svg"> :
 
 <code><img height="20" alt="terraform" src="https://www.zentral.com/integrations/terraform/logo.png"></code>
 <code><img height="20" alt="aws" src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl.png"></code>
-<code><img height="20" alt="gcp" src="https://catalog.cloudblue.com/wp-content/uploads/2022/11/PRD-571-250-341-logo_QxFh4RC.png"></code>
+<code><img height="20" alt="gcp" src="https://pcr.cloud-mercato.com/static/img/logo/google.png"></code>
 <code><img height="20" alt="docker" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_tile_logo_icon_168248.png"></code>
 <code><img height="20" alt="kubernetes" src="https://static-00.iconduck.com/assets.00/kubernetes-color-icon-256x256-t8ualzkj.png"></code>
 <code><img height="20" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"></code>
